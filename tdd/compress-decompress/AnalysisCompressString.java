@@ -2,6 +2,7 @@ package com.test.tdd;
 /**
 * @author RichardYao richardyao@tvunetworks.com
 * @date 2018年6月27日 下午4:51:10
+* {@link} https://techdevguide.withgoogle.com/paths/advanced/compress-decompression#! 
 */
 public class AnalysisCompressString {
 
