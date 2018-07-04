@@ -1,4 +1,4 @@
-package com.test.enu;
+package com.richard.tdd.two_number_sum;
 
 /**
  * @author RichardYao richardyao@tvunetworks.com

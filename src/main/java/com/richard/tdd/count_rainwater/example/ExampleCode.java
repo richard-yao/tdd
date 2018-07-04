@@ -1,4 +1,4 @@
-package com.test.enu;
+package com.richard.tdd.count_rainwater.example;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

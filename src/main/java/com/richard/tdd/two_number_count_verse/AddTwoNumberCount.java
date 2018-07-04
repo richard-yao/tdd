@@ -1,4 +1,4 @@
-package com.test.enu;
+package com.richard.tdd.two_number_count_verse;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -68,14 +68,5 @@ public class AddTwoNumberCount {
 			}
 		}
 		return head;
-	}
-}
-
-class ListNode {
-	int val;
-	ListNode next;
-	
-	public ListNode (int x) { 
-		val = x; 
 	}
 }

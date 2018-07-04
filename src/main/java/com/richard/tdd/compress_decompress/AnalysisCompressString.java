@@ -1,4 +1,4 @@
-package com.test.tdd;
+package com.richard.tdd.compress_decompress;
 /**
 * @author RichardYao richardyao@tvunetworks.com
 * @date 2018年6月27日 下午4:51:10

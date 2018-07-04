@@ -1,4 +1,4 @@
-package com.test.enu;
+package com.richard.tdd.count_rainwater;
 /**
 * @author RichardYao richardyao@tvunetworks.com
 * @date 2018年6月28日 下午2:27:34
@@ -50,7 +50,10 @@ public class RainWaterCount {
 		int endVal = params[j];
 		int smallerOne = headVal > endVal ? endVal : headVal;
 		for(int k = i+1; k < j; k++) {
-			sum += smallerOne - params[k];
+			int tempVal = smallerOne - params[k];
+			if(tempVal > -1) {
+				sum += smallerOne - params[k];
+			}
 		}
 		return sum;
 	}
