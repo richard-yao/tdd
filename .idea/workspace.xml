@@ -1,32 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d727a0b9-9a9f-4c6c-82e1-6696c32a4b4f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/richard/tdd/two_number_count_verse/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/big_integer_addition/BigIntegerAdditionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/compress_decompress/AnalysisiCompressStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/count_rainwater/RainWaterCountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/count_rainwater/example/ExampleCodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/two_number_count_verse/AddTwoNumberCountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/two_number_sum/TwoSumCountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/big-integer-addition/BigIntegerAddition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/big-integer-addition/BigIntegerAdditionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/compress-decompress/AnalysisCompressString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/compress-decompress/AnalysisCompressStringTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/count-rainwater/RainWaterCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/count-rainwater/RainWaterCountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/count-rainwater/example/ExampleCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/count-rainwater/example/ExampleCodeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/two-number-count-verse/AddTwoNumberCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/two-number-count-verse/AddTwoNumberCountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/two-number-sum/TwoSumCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tdd/two-number-sum/TwoSumCountTest.java" beforeDir="false" />
+    <list default="true" id="d727a0b9-9a9f-4c6c-82e1-6696c32a4b4f" name="Default" comment="1.Add LongestSubstring statistical algorithm">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/RichardYao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/richard/tdd/integer_reverse/IntegerReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/integer_reverse/IntegerReverseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,25 +20,33 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tdd$LongestSubstringTest_testLongestSubstring.ic" NAME="LongestSubstringTest.testLongestSubstring Coverage Results" MODIFIED="1548657575861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.richard.tdd.test.longest_substring.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="RainWaterCountTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/richard/tdd/test/count_rainwater/RainWaterCountTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/integer_reverse/IntegerReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-248">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RainWaterCount.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/count_rainwater/RainWaterCount.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/richard/tdd/test/integer_reverse/IntegerReverseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="54" column="46" lean-forward="true" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+            <state relative-caret-position="425">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,6 +61,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="richardyao &lt;yaoyxsgf@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -80,7 +78,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/big_integer_addition/BigIntegerAdditionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/richard/tdd/compress_decompress/AnalysisCompressString.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/compress_decompress/AnalysisiCompressStringTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/richard/tdd/count_rainwater/example/ExampleCode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/richard/tdd/two_number_count_verse/AddTwoNumberCount.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/richard/tdd/two_number_count_verse/ListNode.java" />
@@ -90,20 +87,20 @@
         <option value="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/count_rainwater/example/ExampleCodeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/richard/tdd/count_rainwater/RainWaterCount.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/count_rainwater/RainWaterCountTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/longest_substring/TestLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/longest_substring/LongestSubstringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/richard/tdd/longest_substring/CountLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/richard/tdd/integer_reverse/IntegerReverse.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/richard/tdd/test/integer_reverse/IntegerReverseTest.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:/Program Files/apache-maven-3.3.3" />
-        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.3.3\conf\settings.xml" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -111,9 +108,6 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
@@ -168,15 +162,6 @@
               <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
               <item name="tdd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tdd" type="462c0819:PsiDirectoryNode" />
-              <item name="count_rainwater" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tdd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -201,21 +186,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="count_rainwater" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tdd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="count_rainwater" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="integer_reverse" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,11 +201,12 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15136719" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.27366254" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -249,78 +221,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RainWaterCountTest.testRainWaterCount">
+  <component name="RunManager" selected="JUnit.IntegerReverseTest.testReverse">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="AddTwoNumberCountTest.testAddTwoNumberCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegerReverseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.richard.tdd.test.two_number_count_verse.*" />
+          <option name="PATTERN" value="com.richard.tdd.test.integer_reverse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.richard.tdd.test.two_number_count_verse" />
-      <option name="MAIN_CLASS_NAME" value="com.richard.tdd.test.two_number_count_verse.AddTwoNumberCountTest" />
-      <option name="METHOD_NAME" value="testAddTwoNumberCount" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ExampleCodeTest.testAlgothrim" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tdd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.richard.tdd.test.count_rainwater.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.richard.tdd.test.count_rainwater.example" />
-      <option name="MAIN_CLASS_NAME" value="com.richard.tdd.test.count_rainwater.example.ExampleCodeTest" />
-      <option name="METHOD_NAME" value="testAlgothrim" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="RainWaterCountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tdd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.richard.tdd.test.count_rainwater.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.richard.tdd.test.count_rainwater" />
-      <option name="MAIN_CLASS_NAME" value="com.richard.tdd.test.count_rainwater.RainWaterCountTest" />
-      <option name="METHOD_NAME" />
+      <option name="PACKAGE_NAME" value="com.richard.tdd.test.integer_reverse" />
+      <option name="MAIN_CLASS_NAME" value="com.richard.tdd.test.integer_reverse.IntegerReverseTest" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerReverseTest.testReverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.richard.tdd.test.integer_reverse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.richard.tdd.test.integer_reverse" />
+      <option name="MAIN_CLASS_NAME" value="com.richard.tdd.test.integer_reverse.IntegerReverseTest" />
+      <option name="METHOD_NAME" value="testReverse" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubstringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.richard.tdd.test.longest_substring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.richard.tdd.test.longest_substring" />
+      <option name="MAIN_CLASS_NAME" value="com.richard.tdd.test.longest_substring.LongestSubstringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubstringTest.testLongestSubstring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.richard.tdd.test.longest_substring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.richard.tdd.test.longest_substring" />
+      <option name="MAIN_CLASS_NAME" value="com.richard.tdd.test.longest_substring.LongestSubstringTest" />
+      <option name="METHOD_NAME" value="testLongestSubstring" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="RainWaterCountTest.testRainWaterCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
@@ -330,96 +302,44 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.richard.tdd.test.count_rainwater" />
       <option name="MAIN_CLASS_NAME" value="com.richard.tdd.test.count_rainwater.RainWaterCountTest" />
       <option name="METHOD_NAME" value="testRainWaterCount" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TwoSumCountTest.testTwoSumCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tdd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.richard.tdd.test.two_number_sum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.richard.tdd.test.two_number_sum" />
-      <option name="MAIN_CLASS_NAME" value="com.richard.tdd.test.two_number_sum.TwoSumCountTest" />
-      <option name="METHOD_NAME" value="testTwoSumCount" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.AddTwoNumberCountTest.testAddTwoNumberCount" />
-      <item itemvalue="JUnit.TwoSumCountTest.testTwoSumCount" />
-      <item itemvalue="JUnit.RainWaterCountTest" />
       <item itemvalue="JUnit.RainWaterCountTest.testRainWaterCount" />
-      <item itemvalue="JUnit.ExampleCodeTest.testAlgothrim" />
+      <item itemvalue="JUnit.LongestSubstringTest.testLongestSubstring" />
+      <item itemvalue="JUnit.LongestSubstringTest" />
+      <item itemvalue="JUnit.IntegerReverseTest.testReverse" />
+      <item itemvalue="JUnit.IntegerReverseTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IntegerReverseTest.testReverse" />
+        <item itemvalue="JUnit.IntegerReverseTest" />
+        <item itemvalue="JUnit.LongestSubstringTest.testLongestSubstring" />
+        <item itemvalue="JUnit.LongestSubstringTest" />
         <item itemvalue="JUnit.RainWaterCountTest.testRainWaterCount" />
-        <item itemvalue="JUnit.ExampleCodeTest.testAlgothrim" />
-        <item itemvalue="JUnit.RainWaterCountTest" />
-        <item itemvalue="JUnit.TwoSumCountTest.testTwoSumCount" />
-        <item itemvalue="JUnit.AddTwoNumberCountTest.testAddTwoNumberCount" />
       </list>
     </recent_temporary>
   </component>
@@ -435,91 +355,184 @@
       <updated>1530670419265</updated>
       <workItem from="1530670420726" duration="190000" />
       <workItem from="1530670700907" duration="4685000" />
+      <workItem from="1548648171971" duration="11946000" />
+      <workItem from="1548668208050" duration="4889000" />
     </task>
+    <task id="LOCAL-00001" summary="1.Add LongestSubstring statistical algorithm">
+      <created>1548665221360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548665221361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddTwoNumberCountTest - 2018.07.04 at 10h 55m 36s.xml">
-      <configuration name="AddTwoNumberCountTest" configurationId="JUnit" />
+    <history-entry file="IntegerReverseTest_testReverse - 2019.01.28 at 17h 53m 49s.xml">
+      <configuration name="IntegerReverseTest.testReverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumberCountTest_testAddTwoNumberCount - 2018.07.04 at 11h 04m 58s.xml">
-      <configuration name="AddTwoNumberCountTest.testAddTwoNumberCount" configurationId="JUnit" />
+    <history-entry file="IntegerReverseTest_testReverse - 2019.01.28 at 17h 54m 08s.xml">
+      <configuration name="IntegerReverseTest.testReverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwoSumCountTest_testTwoSumCount - 2018.07.04 at 11h 07m 15s.xml">
-      <configuration name="TwoSumCountTest.testTwoSumCount" configurationId="JUnit" />
+    <history-entry file="IntegerReverseTest_testReverse - 2019.01.28 at 17h 58m 27s.xml">
+      <configuration name="IntegerReverseTest.testReverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RainWaterCountTest - 2018.07.04 at 11h 08m 37s.xml">
-      <configuration name="RainWaterCountTest" configurationId="JUnit" />
+    <history-entry file="IntegerReverseTest_testReverse - 2019.01.28 at 17h 59m 43s.xml">
+      <configuration name="IntegerReverseTest.testReverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RainWaterCountTest_testRainWaterCount - 2018.07.04 at 11h 17m 26s.xml">
-      <configuration name="RainWaterCountTest.testRainWaterCount" configurationId="JUnit" />
+    <history-entry file="IntegerReverseTest_testReverse - 2019.01.28 at 18h 02m 30s.xml">
+      <configuration name="IntegerReverseTest.testReverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RainWaterCountTest - 2018.07.04 at 11h 26m 00s.xml">
-      <configuration name="RainWaterCountTest" configurationId="JUnit" />
+    <history-entry file="IntegerReverseTest_testReverse - 2019.01.28 at 18h 02m 58s.xml">
+      <configuration name="IntegerReverseTest.testReverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RainWaterCountTest_testRainWaterCount - 2018.07.04 at 11h 26m 40s.xml">
-      <configuration name="RainWaterCountTest.testRainWaterCount" configurationId="JUnit" />
+    <history-entry file="IntegerReverseTest_testReverse - 2019.01.28 at 18h 03m 20s.xml">
+      <configuration name="IntegerReverseTest.testReverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExampleCodeTest_testAlgothrim - 2018.07.04 at 11h 27m 41s.xml">
-      <configuration name="ExampleCodeTest.testAlgothrim" configurationId="JUnit" />
+    <history-entry file="IntegerReverseTest_testReverse - 2019.01.28 at 18h 03m 41s.xml">
+      <configuration name="IntegerReverseTest.testReverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RainWaterCountTest_testRainWaterCount - 2018.07.04 at 11h 35m 25s.xml">
-      <configuration name="RainWaterCountTest.testRainWaterCount" configurationId="JUnit" />
+    <history-entry file="IntegerReverseTest_testReverse - 2019.01.28 at 18h 05m 15s.xml">
+      <configuration name="IntegerReverseTest.testReverse" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RainWaterCountTest_testRainWaterCount - 2018.07.04 at 11h 35m 40s.xml">
-      <configuration name="RainWaterCountTest.testRainWaterCount" configurationId="JUnit" />
+    <history-entry file="IntegerReverseTest_testReverse - 2019.01.28 at 18h 06m 17s.xml">
+      <configuration name="IntegerReverseTest.testReverse" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4875000" />
+    <option name="totallyTimeSpent" value="21710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3293348" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28898582" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.35332605" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34994584" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2611051" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3445287" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.Add LongestSubstring statistical algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.Add LongestSubstring statistical algorithm" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="7" />
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="s.charAt(j)" language="JAVA" />
+        <watch expression="number + 1" language="JAVA" />
+        <watch expression="number + 2" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>number + 2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>number + 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.charAt(j)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.charAt(i++)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new File(filePath)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.getenv()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>System.getenv(&quot;CLASSPATH&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>params[j]</expression-string>
         <language-id>JAVA</language-id>
@@ -538,36 +551,8 @@
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/big_integer_addition/BigIntegerAdditionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/big_integer_addition/BigIntegerAddition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/compress_decompress/AnalysisCompressStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/big_integer_addition/BigIntegerAdditionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/compress_decompress/AnalysisCompressStringTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/compress_decompress/AnalysisCompressString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -595,20 +580,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/count_rainwater/RainWaterCountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/count_rainwater/example/ExampleCodeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/count_rainwater/RainWaterCountTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/count_rainwater/example/ExampleCodeTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/two_number_count_verse/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -616,13 +589,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/two_number_count_verse/AddTwoNumberCountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/two_number_count_verse/AddTwoNumberCountTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/richard/tdd/test/two_number_count_verse/AddTwoNumberCountTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -633,20 +600,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/two_number_count_verse/AddTwoNumberCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/two_number_sum/TwoSumCountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/two_number_sum/TwoSumCountTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/richard/tdd/test/two_number_sum/TwoSumCountTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -661,13 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -702,20 +649,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/richard/tdd/test/count_rainwater/RainWaterCountTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/count_rainwater/RainWaterCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="425">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/big_integer_addition/BigIntegerAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/count_rainwater/RainWaterCount.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/decomposition_factor/AnalysisNumberFactor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="54" column="46" lean-forward="true" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/richard/tdd/test/count_rainwater/RainWaterCountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/richard/tdd/test/longest_substring/LongestSubstringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="33" column="40" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/longest_substring/CountLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/two_number_count_verse/AddTwoNumberCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1182" column="32" lean-forward="true" selection-start-line="1182" selection-start-column="32" selection-end-line="1182" selection-end-column="32" />
+          <folding>
+            <element signature="e#46227#46228#0" expanded="true" />
+            <element signature="e#46266#46267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/richard/tdd/integer_reverse/IntegerReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/richard/tdd/test/integer_reverse/IntegerReverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -728,7 +758,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.27366254" />
               </list>
             </option>
           </splitter-proportions>
@@ -740,7 +770,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.27366254" />
               </list>
             </option>
           </splitter-proportions>
@@ -748,10 +778,11 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>groovy-2.5.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.27366254" />
               </list>
             </option>
           </splitter-proportions>
@@ -759,11 +790,11 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.27366254" />
               </list>
             </option>
           </splitter-proportions>
@@ -775,7 +806,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.27366254" />
               </list>
             </option>
           </splitter-proportions>
@@ -795,10 +826,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: commons-io:commons-io:2.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.27366254" />
               </list>
             </option>
           </splitter-proportions>
